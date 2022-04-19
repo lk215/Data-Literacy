@@ -11,3 +11,5 @@
 ### Was hat sich verändert?
 
 In der Session habe ich einiges gelernt im Thema Umgang mit Daten, vieles davon wusste ich noch gar nicht. Mein Verhalten wird sich dahin gehend verändern, dass ich nun viel vorsichtiger mit meine Daten umgehen werde. Ich habe mir schon einen Passwortmanager runtergeladen, den ich die Tage einrichten werden. Bei der Passwortvergabe sehe ich meine größten Schwachstellen. Zum anderen werde ich mehr darauf achten, wo ich meine Daten angebe und wie sicher sie dort sein werden
+
+[screenshot Datenmanifest] (bilder/screenshot_datenmanifest)
