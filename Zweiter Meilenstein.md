@@ -13,3 +13,4 @@
 In der Session habe ich einiges gelernt im Thema Umgang mit Daten, vieles davon wusste ich noch gar nicht. Mein Verhalten wird sich dahin gehend verändern, dass ich nun viel vorsichtiger mit meine Daten umgehen werde. Ich habe mir schon einen Passwortmanager runtergeladen, den ich die Tage einrichten werden. Bei der Passwortvergabe sehe ich meine größten Schwachstellen. Zum anderen werde ich mehr darauf achten, wo ich meine Daten angebe und wie sicher sie dort sein werden
 
 
+![Mein Datenmanifest](https://user-images.githubusercontent.com/103511962/164087570-0e2628bd-1f9d-4c29-87c5-7092357d0a3d.jpg)
